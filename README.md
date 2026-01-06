@@ -10,7 +10,7 @@ Para desarrollar una aplicación con Angular es necesario contar con las siguien
 
 -npm (Node Package Manager): Es el gestor de paquetes que se utiliza para instalar librerías y dependencias del proyecto.
 
-A-ngular CLI: Es una herramienta de línea de comandos que facilita la creación, configuración y ejecución de proyectos Angular.
+-Angular CLI: Es una herramienta de línea de comandos que facilita la creación, configuración y ejecución de proyectos Angular.
 
 **En este proyecto se utilizaron las siguientes versiones:**
 
